@@ -3,7 +3,7 @@ numpy
 matplotlib
 scikit-learn
 nltk
-spacy
-textblob
 beautifulsoup4
 requests
+ipykernel 
+lxml
