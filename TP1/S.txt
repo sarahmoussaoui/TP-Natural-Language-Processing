@@ -1,0 +1,196 @@
+The integration of district cooling technology into smart energy networks powered by renewable energy sources presents significant opportunities for advancing decarbonization of the cooling sector and supporting progress towards global net-zero targets.
+These systems leverage advanced modelling and optimization to evaluate design configurations, operational strategies, and cross-sectoral coupling, while capturing complex thermohydraulic interactions and spatiotemporal variability.
+This review offers a comprehensive synthesis of methodological developments, positioning district cooling systems optimization as a distinct and emerging research domain.
+This study underscores past achievements, current trends, and emerging opportunities, while identifying critical research gaps and deployment challenges within optimization frameworks.
+By examining both design and operational phases, it offers focused insights into crucial areas shaping future development.
+The findings highlight the pivotal role of optimization strategies in enhancing economic, environmental, and technical performance, delivering benefits such as cost reduction, deep decarbonization through renewable integration, and improving energy efficiency.
+Despite notable progress, current methodologies remain limited in capturing the escalating complexity of broader system modelling, both under the emerging holistic approach and multi-domain interactions.
+The prevailing body of literature is largely characterized by fragmented contributions that, while demonstrating specific advancements, prove inadequate in fostering unified and scalable approaches.
+Advancing the field will require sustained interdisciplinary engagement, with particular emphasis on leveraging Artificial Intelligence (AI)-based metaheuristics to develop robust, scalable, and practically applicable collaborative-integrated-optimization frameworks capable of meeting the evolving challenges of sustainable district cooling technology within smart energy infrastructures and related domains.
+Stridulating insects, like ants, use acoustic communication as a crucial part of their social behavior, allowing them to coordinate their activities and respond to changing environmental conditions.
+This paper introduces a novel local search-based approach inspired by the acoustic communication in real ant colonies.
+Despite the large number of existing bio-inspired metaheuristics, no single algorithm is universally optimal, and a new approach inspired by ant sound communication could offer advantages in specific problems.
+Sound-based mechanisms could provide better ways to balance exploration and exploitation potentially improve search efficiency.
+In the proposed approach, artificial ants employ a 2-Opt local search guided by acoustic signals to enhance the quality of a population of initial solutions.
+To assess the efficacy of the proposed approach, experiments are conducted on various benchmark instances of the traveling salesman problem.
+Experimental results demonstrate promising performance, outperforming or matching state-of-the-art algorithms on several benchmark instances.
+Stacking is one of the most popular ensemble learning technique that combines the predictions of multiple base-learners (BLs) using a meta-learner to improve the overall performance of the model.
+To build a stacking-based ensemble, most of the existing works select top-k-performing models as the base-learners without considering the computational resource requirement of the system.
+This work presents a Stacking-based Ensemble Learning Framework with a Variable number of Base-Learners (SELFVarBL), which is capable of finding the trade-off between computational resource requirements and system performance by automatically selecting a suitable number and combinations of base-learners.
+Additionally, the proposed framework does not require excessive computational resources to achieve the optimal solution.
+The proposed framework is validated using three case studies with diversify datasets: the agriculture domain, the audio data analysis domain, and the self-generated synthetic datasets.
+The experimental results show the effectiveness of the proposed framework.
+Considering growing global demand for electricity, it is essential to invest in clean and renewable energy production.
+Investing in renewable energy production is crucial to creating a sustainable matrix that can efficiently meet consumption needs.
+Reducing costs for solar energy operation and maintenance (O&M) is critical to ensure the economic viability of photovoltaic (PV) projects.
+Efficient management of these costs can make the difference between a successful project and an unprofitable installation.
+This work proposes the structuring of a dataset using real measurements of current–voltage (I–V) curves from a solar plant.
+Based on this, two classifications were performed to detect shading and soiling in PV modules.
+Two different methods were used for feature processing.
+One dataset was created using complete I–V curves, while the other relied solely on key parameters from a characteristic curve.
+The dataset used incorporates data on current, voltage, irradiance, and module temperature at the time of measurements.
+Different machine learning models were compared, achieving 100% accuracy in soiling classification and 93.2% in shading classification.
+Diagnosing gastric diseases must address skewed medical data, where positive cases of any specific gastric disease constitute only a small proportion of all cases due to the variety of gastric diseases.
+Therefore, a new approach is called for to effectively diagnose multiple gastric diseases with high scalability.
+In this study, a skewed medical data-oriented parallel modular diagnosis approach is proposed for gastric diseases via scalable belief-ruled hierarchy.
+First, analytical lower-to-middle factors integration functions are constructed.
+Then, a middle-to-top diagnosis model is constructed using a belief-ruled hierarchy.
+Third, a skewed data-oriented optimization model is constructed followed by an optimization algorithm.
+Finally, a parallel modular diagnosis mechanism is proposed for multiple gastric diseases.
+A practical case with 172 cases and nine types of gastric diseases gathered from a tertiary hospital in Hangzhou, China, during a three-month period is studied for validation.
+Case study results demonstrate that the proposed approach diagnoses positive cases of nine gastric diseases with an average accuracy of 86.93%.
+Compared with five other conditions with varied parameter configurations and four machine learning approaches, the proposed approach produces optimal results (e.g., 53.61%, 15.28%, 42.73%, and 40.30% by BPNN, SVM, RF, and GPR, respectively) owing to its penalty coefficient customized to the skewed gastric data to balance all-case diagnosis accuracy and positive-case accuracy.
+Uncertainty and fuzziness are involved in almost all aspects of life.
+Multi-attribute decision-making is the most suitable technique for identifying the optimal alternative from uncertain and fuzzy information, thereby reducing ambiguity in practical applications.
+n the modern age, business has shifted from a physical to an online mode, exemplified by Stack Exchange.
+However, it is too technical for new businesspeople to find the right investment opportunity in the stock exchange market.
+For handling such types of problems, the Pythagorean hesitant fuzzy set framework is an advanced and flexible assessment tool.
+The Sugeno–Weber t-norm and Sugeno–Weber t-conorm operations provide a flexible environment for data aggregation.
+The thought is that the Pythagorean hesitant fuzzy set is a more flexible and advanced structure than the simple one due to the hesitant degree.
+By motivating the concept of Pythagorean hesitant fuzzy set and Sugeno–Weber operation, we developed a family of aggregation operators called Pythagorean hesitant fuzzy Sugeno–Weber weighted averaging and Pythagorean hesitant fuzzy Sugeno–Weber weighted geometric operators.
+Additionally, we examine some fundamental axioms of aggregation operators, including boundedness, monotonicity, and idempotency, to verify the authenticity and accuracy of the proposed theory.
+To construct a multi-attribute decision-making algorithm based on the developed theory.
+We offer a solution to real-life multi-attribute decision-making (MADM) problems involving money investments in the stock exchange market through our diagnostic approach.
+Compared with existing methodologies, we investigate the applicability of Pythagorean hesitant fuzzy Sugeno Weber weighted averaging and Pythagorean hesitant fuzzy Sugeno Weber weighted geometric operators.
+Solid conclusions are discussed in the last section.
+In this paper, we investigate the strain wave equation, which governs the behavior of elastic wave propagation in different media of continuum mechanics.
+Due to the nonlinearity of the equation, it is often difficult to achieve exact solutions using certain traditional analytical and numerical approaches.
+In this work, we use the bilinear neural network method to provide exact solutions to the strain wave equation.
+This method effectively builds solutions by utilizing deep learning algorithms and bilinear transformations.
+The bilinear neural network method provides a potent substitute for traditional methods by methodically approximating nonlinear wave patterns and mapping them into a solvable framework.
+The strain wave equation provides an insight into the nonlinear long wave propagation behavior in shallow water by taking wave phase into account, and its versatility extends beyond fluid dynamics to various physical phenomena.
+By employing structured neural network models, the generalized lump, periodic, and other exact analytical solutions are obtained using the bilinear neural network approach.
+With the help of Mathematica, we extract these solutions and illustrate them in 3D, 2D, and contour plots.
+These visualizations helped illustrate the dynamics of the solutions obtained.
+The computational efficiency of the method was illustrated through its capacity to symbolically derive closed-form solutions without the need for iterative numerical methods and, in turn, diminish processing time and complexity significantly.
+The novelty of this work is the combination of bilinear transformation methods and neural network architectures to symbolically obtain exact analytical solutions as highlighted above for the nonlinear strain wave equation, representing a remarkable breakthrough compared to the conventional numerical and analytical methods.
+The validity of the solutions acquired was established by direct substitution in the bilinear equation as well as through checking their compliance with the equation of strain wave with the help of Mathematica.
+The increasing global consumption of plastics has led to an alarming surge in non-biodegradable waste, posing severe threats to ecosystems and wildlife.
+Addressing these challenges requires advanced decision-making frameworks to navigate the complexities of competing factors and uncertainties in plastic waste management (PWM).
+This study presents a pioneering decision-making framework tailored to the linguistic q-rung orthopair fuzzy (\(L^{q}ROF\)) environment, offering enhanced capabilities for handling imprecision and uncertainty.
+A key innovation of this work is the introduction of new operational laws for\(L^{q}ROF\)values, grounded in Archimedean copula and co-copula (ACC) theory.
+These laws exhibit essential properties such as idempotence, boundedness, and monotonicity, forming the foundation for novel power aggregation operators (AOs), including the\(L^{q}ROF\)copula extended power average (\(L^{q}ROF\)CEPA) and geometric (\(L^{q}ROF\)CEPG) operators, along with their weighted variants.
+By integrating these AOs with the method based on the removal effects of criteria (MEREC) weighting technique, we propose a comprehensive decision-making approach for identifying optimal PWM strategies.
+The robustness and applicability of the framework are demonstrated through a detailed case study, sensitivity analysis, and comparative evaluation, highlighting its effectiveness in delivering reliable and insightful decisions for PWM challenges.
+This study provides an effective cooperative multi-populations swarm intelligence approach, called CMPMO-SGO, which is based on the Social Group Optimization (SGO) algorithm to address multi-/many-objective optimization problems.
+In particular, this study first puts forth a unique cooperative multi-population framework- namely CMPMO/des, with dual elite selection.
+CMPMO/des achieves significantly high performance on solutions convergence and diversity with four excellent strategies: the ability to independently optimize one objective within each subpopulation, collaboration among subpopulations via a global archive, dual elite selection mechanisms, and the inclusion of logistic chaotic single-dimensional perturbation.
+Afterward, due to its very high performance, SGO is employed as the single objective optimizer in each subpopulation.
+Sixteen state-of-the-art multi/many-objective optimization algorithms, two CMPMO/des based many-objective genetic algorithms named CMPMO-GA and many-objective Harris Hawks optimization named CMPMO-HHO, were extensively compared with the performance of CMPMO-SGO on 34 multi-objective and 19 many-objective benchmark problems.
+The results demonstrate that CMPMO-SGO provides promising performance in addressing multi/many-objective optimization problems by utilizing the CMPMO/des framework.
+Datastreams serve as the fundamental conduits of information in contemporary society, playing a pivotal role in various aspects of our daily lives.
+This paper delves into the utilization of datastreams, elucidates the challenges encountered during their application, and presents potential solutions to overcome these challenges.
+Different approaches to handle datastreams are discussed, encompassing diverse methodologies.
+Some methods emphasize the employment of mathematical and statistical techniques for comprehending and analyzing data, while others capitalize on machine, deep, and continual learning to extract meaningful patterns.
+Furthermore, the paper explores the emergence of quantum machines that leverage the principles of quantum physics to tackle datastream related tasks.
+The advent of quantum machines holds promising prospects for revolutionizing data handling mechanisms in the future.
+In addition to data analysis, the paper delves into the platforms and systems employed to effectively process and organize datastreams.
+These platforms act as indispensable tools, facilitating efficient management and manipulation of the copious volumes of data within datastreams.
+Measurement of datastream performance is another key aspect addressed in the paper, wherein several metrics are examined.
+These metrics provide valuable insights into the efficacy of datastream methodologies.
+An intriguing subject discussed is eXplainable AI (XAI) datastreams, which offers a means to comprehend the decision-making processes of complex algorithms, such as neural networks.
+Lastly, the paper highlights the persisting challenges encountered in working with datastreams and outlines potential future directions in the field.
+These insights shed light on the evolving landscape of datastream utilization and anticipate the exciting possibilities that lie ahead.
+A potent extension of intuitionistic fuzzy sets that tackles ambiguity and uncertainty at a higher level is the Pythagorean fuzzy set (\(\mathbb {P_YFS}\)).
+When assessing the degree of similarity between two fuzzy sets, the similarity measure is a helpful tool.
+It is used in typical decision-making scenarios.
+In this study, a new way to determining the degree of similarity is presented and contrasted with previous methods.
+All of the shortcomings of the existing measures can be mitigated by the newly suggested measure.
+The usefulness of this measure in using the modified Vlekriterijumsko KOmpromisno Rangiranje (VIKOR) approach to handle decision-making problems is illustrated with a few instances.
+Additionally, relevant examples are provided to illustrate how it could be used to challenges relating to transportation.
+The suggested method accomplishes the primary objective of the transportation problem, which is reduced transportation costs, when compared to other options.
+This paper proposes a novel extension to the traditional Vehicle Routing Problem by introducing the Dynamic Vehicle Routing Problem with Drone considering Time Windows.
+This new problem incorporates dynamic request handling and the innovative use of drones to address delivery challenges within specific time constraints.
+To tackle Dynamic Vehicle Routing Problem with Drone considering Time Windows, we develop an adaptive Ant Colony Optimization algorithm.
+In which, initial routes are constructed to handle known requests, establishing a baseline solution.
+The algorithm adapts to real-time requests in the dynamic phase by transferring pheromone values between time steps to find the best solutions at each iteration.
+This mechanism effectively exploits past solutions and explores high-quality routes for new requests with strict time windows.
+Our proposed algorithm is validated through extensive experimental scenarios that simulate various spatial distributions and time-sensitive demands.
+Results show that our method produced high-quality solutions compared to existing heuristics and nature-inspired methods, particularly in complex environments with random requests and tight time constraints.
+Time-series forecasting, prediction, and estimation have been active research topics in recent years due to their critical role in decision-making and future planning.
+Artificial neural networks (ANNs) are widely employed for forecasting applications and have demonstrated significant performance improvements.
+In this paper, we utilize a specialized type of ANN, the dendritic neuron model (DNM), for time-series forecasting.
+We apply an optimized DNM model by utilizing the power of metaheuristic (MH) optimization algorithms.
+Specifically, we employ an MH algorithm, the mountain gazelle optimizer (MGO), to optimize the parameters of the DNM, improve its configuration process, and ultimately improve the accuracy of the forecast.
+Furthermore, we compare MGO performance with several other optimization algorithms used to optimize the DNM model.
+Comprehensive evaluations are conducted on four publicly available time series datasets using multiple evaluation indicators.
+The results demonstrate the superiority of the MGO-DNM model over competing methods, with optimized DNM configurations consistently outperforming the traditional DNM in forecasting tasks.
+Lung cancer remains one of the most prevalent and deadly forms of cancer worldwide, with a high mortality rate and limited treatment options available.
+Traditional chemotherapy and radiation therapy have been the mainstays of lung cancer treatment, but their efficacy is often limited by systemic toxicity and drug resistance.
+Recently, many nanoparticles have been identified and created for drug delivery with the ability to specifically target tumor cells while sparing healthy cells or organs.
+The nanoparticle-based drug delivery system offers distinct benefits over conventional medication delivery, including increased permeability and retention effect, precision targeting, and improved stability and biocompatibility.
+Therefore, this paper proposes the group decision making approach under linguistic q-rung orthopair fuzzy environment to select the best nanoparticle in drug delivery system for lung cancer treatment.
+Firstly, this paper proposes linguistic q-rung orthopair fuzzy Yager power weighted geometric aggregation operator for aggregating the linguistic q-rung orthopair fuzzy numbers based on the Yager’s norm.
+This paper also demonstrates several features of the proposed operator.
+Moreover, by using the proposed operator, this paper presents the group decision making approach.
+Furthermore, a case study is presented for the selection of optimal nanoparticle in drug delivery for the treatment of lung cancer to demonstrate the proposed decision making approach’s applicability.
+Finally, this paper presents comparison study, sensitivity analysis and superiority of proposed decision making approach with the other existing decision making methods to validate the proposed decision making approach.
+This paper proposes novel variants of the shuffled particle swarm optimization (SPSO) algorithm for solving the frequency modulation sound parameter identification (FMSPI) problem.
+In the SPSO framework, the population is divided into several parallel groups, and each group undergoes an independent evolutionary process using particle swarm optimization (PSO).
+This study employs two distinct strategies to achieve an improved balance between the exploration and exploitation capabilities of the SPSO algorithm.
+First, it introduces a group-specific strategy for the inertia weight factor parameter, which is dynamically adjusted for each group during every iteration of the SPSO algorithm.
+Second, to facilitate an intensified search in promising regions of the solution space, a quasi-opposition-based strategy is incorporated into the SPSO.
+Experimental results on FMSPI problems demonstrate that the proposed strategies significantly enhance the performance of the SPSO algorithm.
+Also, in order to demonstrate the effectiveness of proposed algorithm, IEEE CEC2014 test set is used and the obtained results are compared against three other shuffled algorithms include: SFL, SCE and SDE.
+As evidenced the Wilcoxon signed-ranked test of reported results, the proposed algorithm demonstrates statistically superior performance versus all competitors.
+This paper addresses the offline handwritten signature recognition task, a challenging classification problem due to high intra-class variability and inter-class similarity.
+The objective is to accurately classify signature images into their corresponding identity classes, despite inherent uncertainty and imprecision in signature data.
+To address this, a convolutional neural network is employed for feature extraction, generating a robust representation of each signature-a discriminative and noise-tolerant feature vector that captures essential structural elements of the signature.
+These features are then classified using a Fuzzy Min-Max Neural Network, which excels in handling overlapping and ambiguous patterns.
+However, Fuzzy Min-Max Neural Network’s performance is highly sensitive to its parameters (vigilance threshold and sensitivity), often requiring time-consuming manual tuning.
+To overcome this limitation, an Evolution Strategy is proposed for automatic parameter optimization.
+This method uses an adaptive fitness function and a dynamic mutation strategy to efficiently explore the parameter space and accelerate convergence.
+The approach is validated on a proprietary offline signature dataset, and the results demonstrate that the proposed Evolution Strategy-Fuzzy Min-Max Neural Network system achieves superior accuracy, precision, and robustness compared to baseline and state-of-the-art methods.
+The multiple traveling salesman problem (mTSP) is an extension of the traveling salesman problem, which involves multiple salespeople visiting a set of cities, with each city being visited only once.
+It is widely used in logistics distribution, traffic scheduling, and multi robot collaboration, but faces challenges such as high computational complexity, difficult task allocation, and susceptibility to local optimal solutions.
+Most existing methods focus on finding solutions from scratch, primarily aiming to minimize the total travel distance, with insufficient attention paid to balancing travel costs among salespeople.
+This article proposes a matrix based multi strategy integrated particle swarm optimization algorithm, which improves efficiency through matrix representation and parallel computing, and introduces a dynamic diversity mechanism to balance local and global search capabilities.
+In addition, a new fitness evaluation function has been designed to effectively address significant route differences among salespeople.
+Among the five typical TSP problems, the performance of this algorithm is superior to MPSO, HJSPSO and standard PSO algorithms.
+It significantly improves solving efficiency and enhances result balance.
+This study provides an efficient and robust solution for the mTSP problem, which has important theoretical significance and practical application value.
+The study of urban satellite imagery has undergone a significant transformation due to the emergence of deep learning techniques.
+This survey thoroughly examines current progress in deep learning models designed for three primary tasks: classification, segmentation, and change detection in urban environments.
+A total of 114 reviewed studies were analyzed, including convolutional neural networks (CNNs), hybrid models, and transformer-based models such as ResNet, UNet++, HRNet, BR-Net, Mask2Former, TransCFCCNN, and STCD-EffV2T UNet.
+Prominent datasets such as EuroSAT, UC-Merced, SpaceNet, DeepGlobe, LEVIR-CD, and xBD were examined alongside performance metrics like accuracy, F1 score, IoU, precision, and recall, with results visualized through comparative bar plots.
+Our comparison analysis indicates that models such as GoogleNet, EfficientNet-B7, and MaxViT achieve classification accuracies over 99%, while segmentation models like Mask2Former and BR-Net exhibit IoU scores over 92%.
+STCD-EffV2T UNet achieves exceptional F1 scores of up to 98.79% for change detection.
+These models are crucial for urban development and environmental change monitoring, facilitating the classification of land cover types, segmentation of buildings, roads, and urban features, as well as the detection of urban and environmental changes.
+This study defines growing trends and challenges, incorporating model generalization, dataset diversity, and computing complexity.
+It additionally suggests future directions, including the use of Mamba Networks for scalable temporal modeling, the incorporation of Vision Transformers for enhanced feature extraction, and the utilization of GANs for dataset augmentation.
+This paper offers a comprehensive and systematic synthesis of deep learning methodologies, establishing a fundamental reference for subsequent research in urban satellite image analysis.
+Large-scale mechanical fault detection plays a critical role in industrial production, and neural networks have been widely adopted for this task.
+However, the performance of neural networks heavily depends on the optimization of their architecture and parameters.
+Traditional optimization methods such as gradient descent and particle swarm optimization can improve model performance to some extent, but they typically require adjusting all weights, which not only increases computational complexity but also often leads to redundant network structures.
+To address these challenges, this paper proposes a cooperative neuroevolution algorithm for constructing lightweight neural networks tailored for fault diagnosis tasks.
+The algorithm introduces two co-evolving populations-one dedicated to learning the critical weights of the neural network, and the other focused on optimizing the precise weight values.
+This approach enables the discovery of a sparsely connected, lightweight neural network.
+By decoupling and cooperatively optimizing network structure and weights, the algorithm can more efficiently explore the search space to identify models that are both compact and high-performing.
+To validate the effectiveness of the proposed algorithm, extensive experiments are conducted on multiple industrial datasets involving large-scale mechanical fault detection.
+The results demonstrate that the algorithm maintains high diagnostic accuracy while significantly reducing the number of model parameters.
+Compared to conventional evolutionary algorithms, it exhibits superior model compression capability and generalization performance.
+Directional sensor network(DSN) utilize directional sensors with a limited field of view for focused monitoring.
+This directionality enhances energy efficiency by reducing unnecessary sensing and data transmission.
+These sensor enables precise monitoring of specific areas while minimizing data redundancy.
+Optimizing sensor orientation is crucial for maximizing area coverage in randomly deployed networks, particularly in inaccessible terrains.
+Effective orientation ensures maximum coverage, enhances monitoring efficiency, and reduces the need for costly redeployments in challenging environments.
+This paper proposes a novel Hybrid Firefly-Coyote Optimization Algorithm (HF-COA) to address this problem.
+A grid-based mathematical framework is proposed to evaluate area coverage.
+The proposed HF-COA achieves superior performance in maximizing area coverage due to its effective balance of exploration and exploitation.
+Experimental results demonstrate that HF-COA achieves superior coverage performance compared to standalone FA and COA, under varying sensor parameters.
+The proposed method offers a reliable solution for enhancing monitoring efficiency in complex and dynamic environments.
+A novel enhanced hybrid multi-objective osprey optimization algorithm (EHMOOOA) is proposed in this research work.
+It is used here for the optimum sizing of an off-grid composite renewable energy sources-based framework comprising a photovoltaic (PV) system, wind turbine generators (WTs), and battery energy storage system (BESS).
+The system is modelled to supply the administrative block of Kalyani Government Engineering College, Kalyani, India.
+The novelties include the integration of the quasi-oppositional-based learning mechanism, composite solution-oriented differential evolution algorithm (CSODEA), and Brownian motion concept into the osprey optimization algorithm (OOA).
+The contribution lies in the development of two novel mutation mechanisms, three new scaling coefficients and advanced extraction strategies for the core vector and the primary predecessor solutions of the difference vectors.
+The final stage of the exploitation process presents a novel scheme for the location upgrade of the solutions employing Brownian motion.
+A mathematical configuration has been built to minimize three primary fitness functions: loss of power supply probability (LPSP), levelized cost of electrical energy (LCOE), and net present cost (NPC).
+For validation purposes, the performances of the proposed hybrid meta-heuristic algorithm are compared with five other powerful optimization algorithms.
+Eight standard CEC benchmark functions and three CEC2020 actual scenario-constrained optimization problem functions are employed here for the evaluation of the proposed algorithm.
+The suggested composite methodology yielded the lowest and optimum values of LCOE (0.3029 $/kWh), NPC (0.9184e+05 $), and LPSP (0.000541).
+The optimum contributions made by PV, WT, and BESS are 80.9%, 10%, and 9.1%, respectively.
+Validation of the suggested technique has been further carried out by conducting statistical performance analysis through standard deviations.
+The proposed technique yielded the lowest standard deviation values: 7.4330e\(-\)04 (LCOE), 376.8249 (NPC), and 1.9901e\(-\)06 (LPSP), respectively.
+Further, to validate the outcomes, the Shapiro-Wilk test is conducted, followed by the Welch-like ANOVA and Games-Howell post-hoc tests.
+Moreover, a sensitivity test is performed to evaluate the robustness of EHMOOOA.
