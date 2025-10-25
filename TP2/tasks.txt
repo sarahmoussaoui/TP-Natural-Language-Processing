@@ -1,0 +1,6 @@
+les articles sont organises en volumes et issues
+recuperer soit visaaliser un article soit par volume soit par fichier de tous les articles de la revue
+unigrame un volume, un article, un ??
+
+un article : numero du volume + numero de larticle
+
