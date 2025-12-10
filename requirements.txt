@@ -8,3 +8,4 @@ requests
 ipykernel 
 lxml
 wordcloud
+streamlit

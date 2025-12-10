@@ -1,0 +1,1 @@
+execute : streamlit run C:\Users\moous\Documents\M2\TP-Natural-Language-Processing\TP8\app.py
