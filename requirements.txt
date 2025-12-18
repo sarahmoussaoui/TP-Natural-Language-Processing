@@ -10,3 +10,4 @@ lxml
 wordcloud
 streamlit
 selenium
+webdriver_manager
